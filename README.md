@@ -4,8 +4,6 @@
   <img alt="Mokshith1817's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
-
 <!--
 **Mokshith1817/Mokshith1817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
